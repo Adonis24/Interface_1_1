@@ -6,7 +6,9 @@
 //  Copyright © 2018 Чернецов Роман. All rights reserved.
 //
 
+import Foundation
 import UIKit
+
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
