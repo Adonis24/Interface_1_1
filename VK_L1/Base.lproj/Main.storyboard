@@ -89,9 +89,6 @@
                                     <constraint firstAttribute="trailing" secondItem="nLh-d9-2hU" secondAttribute="trailing" constant="30" id="USU-EL-BVm"/>
                                     <constraint firstItem="cl7-cT-4ds" firstAttribute="top" secondItem="odc-Lo-pWR" secondAttribute="top" id="Yku-52-7f0"/>
                                     <constraint firstItem="rn1-d6-Spe" firstAttribute="top" secondItem="Q56-Vs-bFf" secondAttribute="bottom" constant="26" id="ddu-2U-5my"/>
-                                    <constraint firstAttribute="bottom" secondItem="Evv-Ox-4f7" secondAttribute="bottom" id="h2w-Cw-hF5"/>
-                                    <constraint firstItem="Q56-Vs-bFf" firstAttribute="top" secondItem="cl7-cT-4ds" secondAttribute="bottom" constant="50" id="itG-O3-YRv"/>
-                                    <constraint firstAttribute="bottom" secondItem="Evv-Ox-4f7" secondAttribute="bottom" id="kcn-zP-s2G"/>
                                     <constraint firstItem="Q56-Vs-bFf" firstAttribute="leading" secondItem="Evv-Ox-4f7" secondAttribute="trailing" constant="30" id="kxV-5L-0mR"/>
                                     <constraint firstItem="nLh-d9-2hU" firstAttribute="leading" secondItem="Evv-Ox-4f7" secondAttribute="trailing" constant="30" id="lh5-gG-H7k"/>
                                     <constraint firstItem="RHs-b3-iPp" firstAttribute="top" secondItem="rn1-d6-Spe" secondAttribute="bottom" constant="8" id="oCu-J6-nVq"/>
@@ -105,13 +102,12 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
+                            <constraint firstItem="Evv-Ox-4f7" firstAttribute="height" secondItem="8bC-Xf-vdC" secondAttribute="height" id="84b-cg-7MV"/>
                             <constraint firstItem="odc-Lo-pWR" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="B7X-Lv-DWK"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="odc-Lo-pWR" secondAttribute="bottom" id="EsD-7K-llM"/>
                             <constraint firstItem="cl7-cT-4ds" firstAttribute="width" secondItem="8bC-Xf-vdC" secondAttribute="width" id="JZE-OE-LB3"/>
                             <constraint firstItem="odc-Lo-pWR" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="Nhd-44-mSl"/>
-                            <constraint firstItem="Evv-Ox-4f7" firstAttribute="height" secondItem="8bC-Xf-vdC" secondAttribute="height" id="Q5w-ZI-EaN"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="odc-Lo-pWR" secondAttribute="trailing" id="VFY-1N-YUU"/>
-                            <constraint firstItem="Evv-Ox-4f7" firstAttribute="height" secondItem="8bC-Xf-vdC" secondAttribute="height" id="lHf-GD-EiC"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
